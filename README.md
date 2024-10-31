@@ -48,3 +48,16 @@ We have published a video tutorial on how to use this . ( https://www.youtube.co
 Please contact support@ERPGulf.com for implementation support or customization.
 
 Husna M
+
+
+
+CSR Config Template 
+csr.common.name = Dynamic
+ csr.serial.number = 1-12365472-hgft-3hjo
+csr.organization.identifier = 123695487
+csr.organization.unit.name= dynamic
+csr.organization.name=  dynami
+csr.country.name  =SA
+ csr.invoice.type= invoice
+ csr.location.address = Ryahd
+csr.industry.business.category=Software
